@@ -1,4 +1,4 @@
-# FoodExpress QA Repository
+# FoodExpress Repository
 
 Этот репозиторий содержит тестовую документацию для интернет-магазина **Food Express**.
 
